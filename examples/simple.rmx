@@ -1,0 +1,6 @@
+#+ QUERY: Simple query
+#+ ENDPOINT: sw-char=https://swapi.dev/api/people/:id
+
+from sw-char
+with
+  id = 1
